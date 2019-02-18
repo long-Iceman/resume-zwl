@@ -20,11 +20,12 @@ github | https://github.com/Si3ver
 
 ### **前端开发相关**
 
-+ 前端基础牢固、熟悉HTML5、CSS3、JavaScript、ES6；
-+ 熟悉Vue框架，有mpVue微信小程序开发经验；
-+ 熟悉计算机网络、HTTP(S)、浏览器原理、了解前端性能优化；
-+ 熟悉git、Linux基本操作、了解中间件koa、mySQL数据库、Docker、k8s、python；
-+ 了解数据可视化，会使用Matplotlib、Markdown、LaTex；
++ 基础知识牢靠、熟悉HTML、CSS、JavaScript，基础数据结构和算法；
++ 熟悉Vue，有mpVue开发电商小程序的经验；
++ 熟悉git基本原理和协作开发方式，了解webpack简单的配置；
++ 熟悉python、nodejs，了解中间件koa、mySQL数据库、Docker、k8s等后台技术；
++ 熟悉计算机网络、通信协议、信息安全等基础知识；
++ 了解数据可视化，熟悉EChart库的使用，会使用Matplotlib、LaTex；
 + 无障碍阅读英文文档(CET-6)，熟练使用Google、Stack Overflow检索；
 
 ### **爱好特长**
@@ -37,7 +38,7 @@ github | https://github.com/Si3ver
 
 ### **学术论文**
 
-+ Weilin Zhou, Yuan Yang, Mingwei Xu, and Hao Chen, Accommodating dynamic traffic immediately: a VNF placement approach(ICC 2019已录用，SCI检索)
++ Weilin Zhou, Yuan Yang, Mingwei Xu, and Hao Chen, Accommodating dynamic traffic immediately: a VNF placement approach(ICC 2019已录用，SCI检索，CCF三类会议)
 + 周伟林, 杨芫, 徐明伟. 网络功能虚拟化技术研究综述[J]. 计算机研究与发展, 2018, 55(4): 675-688(EI检索)
 
 ### **奖励**
@@ -59,17 +60,15 @@ github | https://github.com/Si3ver
 
 ## 实习经历
 
-
 ### 美到家科技有限公司  技术部 web前端研发  2018年10月23日 - 2019年03月23日  负责人：王鹏
 
 > **项目描述**
-  1. 用Vue.js独立开发公司新主页，用MuseUI和Vue.js与王亮一起开发魔镜BA页，参与珠宝电商平台微信小程序的用户信息部分。
-  2. 微信小程序使用mpVue、iView、flyio等技术，UI讨论出设计图后，后端定义数据库.
-  3. xxx
+  1. 用Vue.js独立开发公司新主页，使用了MuseUI和Vue.js与王亮一起开发魔镜BA页，参与珠宝电商平台微信小程序的用户信息部分。
+  2. 微信小程序使用mpVue，UI讨论出设计图后，后端定义数据库字段和表后，由前端在easy mock上定义接口格式，再交由后端实现和反馈。
 > **项目职责**
-  1. xxx
+  1. 负责用户中心的九个页面，包括功能、路由和页面间参数传递。
 > **项目成果**
-  1. xxx
+  1. 满足了合作伙伴公司（尚尚珍宝）的产品经理的需求。
 
 
 ### 滴滴出行 （小桔科技）  质量技术部  web前端研发  2018年05月29日 - 2018年09月17日 负责人：况宏瑞、周文凯、何宗昊
@@ -131,16 +130,6 @@ github | https://github.com/Si3ver
   1. 实现了VNF放置算法的仿真环境NFVsimu，并在github开源；
   2. 抽象出了可扩展性的最优化模型，并证明其等价于二分匹配的问题；
   3. 设计并实现了sVNFP和sVNFP-adv两个启发式算法，使丢包率降低了15%-40%；
-
-### 移动端web page小游戏开发  别踩白块儿  2018年02月
-
-> **项目简介**
-  1. 基于canvas，游戏数据为四行四列的矩阵，以MVC设计模式组织代码；
-  2. 采用响应式布局，支持移动端touch事件；
-> **个人职责**
-  1. 实现了别踩白块儿移动端小游戏，手机浏览器输入URL即玩
-> **项目成果**
-  1. 丰富了自己移动端游戏开发经验
 
 ## 社团活动
 
